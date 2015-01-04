@@ -1,12 +1,12 @@
-Subject: Change email address requested
+Assunto: Mudança de endereço de e-mail solicitado
 
-Hello <username>,
+Olá <username>,
 
-You have requested to have a new email address assigned to your account in the discussion forum at <base_url>. If you didn't request this or if you don't want to change your email address you should just ignore this message. Only if you visit the activation page below will your email address be changed. In order for the activation page to work, you must be logged in to the forum.
+Você pediu para ter um novo endereço de e-mail atribuído à sua conta no fórum de discussão em <base_url>. Se você não solicitou isso ou se você não quiser alterar o seu endereço de e-mail que você deve simplesmente ignorar esta mensagem. Só se você visitar a página de ativação abaixo será o seu endereço de e-mail ser alterado. Para que a página de ativação para o trabalho, você precisa estar logado para o fórum.
 
-To change your email address, please visit the following page:
+Para alterar o seu endereço de e-mail, visite a seguinte página:
 <activation_url>
 
 --
 <board_mailer>
-(Do not reply to this message)
+(Não responda a esta mensagem)

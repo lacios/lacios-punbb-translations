@@ -1,12 +1,12 @@
-Subject: New password requested
+Assunto: Nova senha solicitada
 
-Hello <username>,
+Olá <username>,
 
-You have requested to have a new password assigned to your account in the discussion forum at <base_url>. If you didn't request this or if you don't want to change your password you should just ignore this message. Only if you visit the activation page below will your password be changed.
+Você pediu para ter uma nova senha atribuída à sua conta no fórum de discussão em <base_url>. Se você não solicitou isso ou se você não quiser alterar sua senha, você deve simplesmente ignorar esta mensagem. Só se você visitar a página de ativação abaixo será sua senha ser alterada.
 
-To change your password, please visit the following page:
+Para alterar sua senha, por favor visite a seguinte página:
 <activation_url>
 
 -- 
 <board_mailer>
-(Do not reply to this message)
+(Não responda a esta mensagem)

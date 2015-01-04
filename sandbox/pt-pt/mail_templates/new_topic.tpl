@@ -1,11 +1,11 @@
-Subject: New topic in forum: <forum_name>
+Assunto: Novo tópico no fórum: <forum_name>
 
-<topic_starter> has created new topic <topic_subject> in forum to which you are subscribed.
+<topic_starter> criou um novo tópico <topic_subject> no fórum em que você está inscrito.
 
-The new topic is located at <topic_url>
+O novo tópico está localizado em <topic_url>
 
-You can unsubscribe by going to <unsubscribe_url>
+Você pode cancelar sua inscrição em <unsubscribe_url>
 
 --
 <board_mailer>
-(Do not reply to this message)
+(Não responda a esta mensagem)

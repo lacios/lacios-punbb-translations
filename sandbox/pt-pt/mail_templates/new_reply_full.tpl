@@ -1,18 +1,18 @@
-Subject: Reply to topic: <topic_subject>
+Assunto: Responder ao tópico: <topic_subject>
 
-<replier> has replied to the topic <topic_subject> to which you are subscribed. There may be more new replies, but this is the only notification you will receive until you visit the board again.
+<replier> respondeu ao tópico <topic_subject> para o qual você está inscrito. Pode haver mais respostas novas, mas esta é a única notificação, você receberá até que você visite o tópico novamente.
 
-The message reads as follows:
+A mensagem diz o seguinte:
 -----------------------------------------------------------------------
 
 <message>
 
 -----------------------------------------------------------------------
 
-The post is located at <post_url>
+O posto está localizado em <post_url>
 
-You can unsubscribe by going to <unsubscribe_url>
+Você pode cancelar sua inscrição em <unsubscribe_url>
 
 -- 
 <board_mailer>
-(Do not reply to this message)
+(Não responda a esta mensagem)
