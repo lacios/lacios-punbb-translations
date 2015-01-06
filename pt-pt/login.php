@@ -1,6 +1,6 @@
 <?php
 
-// Definições de linguagem utilizada em login.php
+// Definições da linguagem utilizada em login.php
 $lang_login = array(
 
 // Miscellaneous
@@ -18,8 +18,8 @@ $lang_login = array(
 'No e-mail match'					=>	'Não há nenhum usuário registrado com o e-mail %s.',
 'Invalid e-mail'					=>	'O e-mail informado é inválido.',
 'Login options'						=>	'Você precisa %1$s ou obter uma %2$s antes de entrar?',
-'Obtain pass'						=>	'nova senha',
-'register'							=>	'registrar-se',
+'Obtain pass'						=>	'Nova Senha',
+'register'							=>	'Registrar-se',
 'Submit password request'			=>	'Enviar pedido',
 'Email flood'						=>	'Esta conta já pediu uma nova senha nos últimos %s segundos. Por favor, espere um pouco antes de pedir uma nova senha novamente.',
 'New password request'				=>	'Pedido de nova senha',

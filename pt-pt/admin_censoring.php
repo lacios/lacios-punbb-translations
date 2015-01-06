@@ -1,6 +1,6 @@
 <?php
 
-// Definições de linguagem utilizada em admin_censoring
+// Definições da linguagem utilizada em admin_censoring
 $lang_admin_censoring = array(
 
 'Censored word head'			=>	'Adicionar, editar ou remover palavras censuradas',

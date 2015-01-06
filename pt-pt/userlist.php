@@ -1,6 +1,6 @@
 <?php
 
-// Definições de linguagem utilizada em userlist.php
+// Definições da linguagem utilizada em userlist.php
 $lang_ul = array(
 
 'Users'					=>	'usuários',
