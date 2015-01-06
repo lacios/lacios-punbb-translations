@@ -1,6 +1,6 @@
 <?php
 
-// Language definitions used in login.php
+// Definições de linguagem utilizada em login.php
 $lang_login = array(
 
 // Miscellaneous

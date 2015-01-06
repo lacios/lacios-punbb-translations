@@ -1,22 +1,22 @@
 <?php
 
-// Language definitions used in admin_censoring
+// Definições de linguagem utilizada em admin_censoring
 $lang_admin_censoring = array(
 
-'Censored word head'			=>	'Add, edit or remove censored words',
-'Add censored word legend'		=>	'Add word',
-'Edit censored word legend'		=>	'Edit or remove existing censored word',
-'Add censored word intro'		=>	'Enter a word that you want to censor and the replacement text for this word. Wildcards are accepted (i.e. *some* would match somewhere and lonesome). Censor words also affect usernames. New users will not be able to register with usernames containing any censored words. The search is case insensitive.',
-'Add censored word extra'		=>	'For this to have any effect "<strong>Censoring</strong>" must be enabled in %s.',
-'Censored word label'			=>	'Censored word',
-'Replacement label'				=>	'Replacement',
-'Add new word legend'			=>	'Add new censored word',
-'Existing censored word legend'	=>	'Existing censored word',
-'No censored words'				=>	'No censor words in list.',
-'Censor word added'				=>	'Censor word added.',
-'Censor word updated'			=>	'Censor word updated.',
-'Censor word removed'			=>	'Censor word removed.',
-'Must enter text message'		=>	'You must enter both text to search for and text to replace with.',
-'Add word'						=>	'Add word',
+'Censored word head'			=>	'Adicionar, editar ou remover palavras censuradas',
+'Add censored word legend'		=>	'Adicionar palavra',
+'Edit censored word legend'		=>	'Editar ou remover palavra censurada existente',
+'Add censored word intro'		=>	'Digite a palavra que quer censurar e o texto de substituição para essa palavra. Cartões selvagens são aceitos (i.e *algum* corresponderia a algum lugar solitário). Palavras censoradas também afetam usernames. Novos usuários não serão capazes de se registrarem com nomes de usuários que contenham quaisquer palavras censuradas. A pesquisa é sensível.',
+'Add censored word extra'		=>	'Para que isso tenha qualquer efeito na "<strong> Censura </strong>" deve estar habilitado em %s.',
+'Censored word label'			=>	'Palavra censurada',
+'Replacement label'				=>	'Substituição',
+'Add new word legend'			=>	'Adicionar nova palavra censurada',
+'Existing censored word legend'	=>	'Palavra censurada Existente',
+'No censored words'				=>	'Não há palavras censoradas na lista.',
+'Censor word added'				=>	'Palavra censorada adicionada.',
+'Censor word updated'			=>	'Palavra censorada atualizada.',
+'Censor word removed'			=>	'Palavra censorada removida.',
+'Must enter text message'		=>	'Você deve procurar o texto que quer substituir.',
+'Add word'						=>	'Adicionar palavra',
 
 );

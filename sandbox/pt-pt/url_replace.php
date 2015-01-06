@@ -1,9 +1,9 @@
 <?php
 
-// The contents of this file are very much inspired by the file i18n-ascii.txt
-// from the CMS software Textpattern (http://textpattern.com/).
+// O conteúdo deste arquivo são inspirados pelo arquivo i18n-ascii.txt
+// A partir do TextPattern software CMS (http://textpattern.com/).
 
-// Replacements done by sef_friendly function
+// Substituições feitas por função sef_friendly
 $lang_url_replace = array(
 
 'À' => 'A',

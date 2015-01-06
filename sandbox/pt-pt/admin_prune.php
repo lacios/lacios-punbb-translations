@@ -1,25 +1,25 @@
 <?php
 
-// Language definitions used in all admin files
+// Definições de linguagem utilizada em todos os arquivos da administração
 $lang_admin_prune = array(
 
-'Prune settings head'			=>	'Prune topics according to age of latest post and forum',
-'Prune legend'					=>	'Select posts to prune',
-'Confirm prune heading'			=>	'Confirm prune topics',
-'Prune details head'			=>	'Confirm prune topics from: %s',
-'Prune topics info 1'			=>	'<strong>WARNING!</strong> Pruning will permanently delete <em>%s</em> topics%s.',
-'Prune topics info 2'			=>	'The topics being deleted do not contain posts newer than <em>%s</em> days old.',
-'All forums'					=>	'All forums',
-'Include sticky'				=>	'including sticky topics',
-'Days old'						=>	'Days old',
-'Prune topics'					=>	'Prune topics',
-'Number of topics'				=>	'Number of topics',
-'Prune caution'					=>	'<strong>IMPORTANT!</strong> Use this feature with caution. Pruned posts can <em>NEVER</em> be recovered. For best performance you should put the forum in maintenance mode during pruning.',
-'Prune intro'					=>	'You may prune topics from all forums or from one particular forum. Topics will be pruned according to the value you specify for "Days old". E.g. if you were to enter 30, every topic that didn\'t contain a post dated less than 30 days old would be deleted.',
-'Prune sticky enable'			=>	'Enable pruning of sticky topics.',
-'Prune from'					=>	'Prune from forum',
-'Days to prune message'			=>	'Days to prune must be a positive integer.',
-'No days old message'			=>	'There are no topics that are as old as you have specified. Please decrease the value of "Days old" and try again.',
-'Prune done'					=>	'Posts pruned.',
+'Prune settings head'			=>	'Eliminar tópicos de acordo com a idade do último post e fórum',
+'Prune legend'					=>	'Selecionar posts a eliminar',
+'Confirm prune heading'			=>	'Confirmar a exclusão dos tópicos',
+'Prune details head'			=>	'Confirmar a exclusão dos tópicos a partir de: %s',
+'Prune topics info 1'			=>	'<strong>ATENÇÃO!</strong> Esta ação apagará permanentemente <em>%s</em> os tópicos%s.',
+'Prune topics info 2'			=>	'Os tópicos a eliminar não possuem mensagens com menos de <em>%s</em> dias.',
+'All forums'					=>	'Todos os fórums',
+'Include sticky'				=>	'inclusive tópicos fixados',
+'Days old'						=>	'Dias',
+'Prune topics'					=>	'Eliminar tópicos',
+'Number of topics'				=>	'Número de tópicos',
+'Prune caution'					=>	'<strong>IMPORTANTE!</strong> Use este recurso com cuidado. Posts eliminados <em>JAMAIS</em> poderão ser recuperados. Para melhor perfórmance, você deve colocar o fórum em modo de manutenção durante a exclusão.',
+'Prune intro'					=>	'Você pode eliminar tópicos de todos os fóruns ou de um fórum em particular. Os tópicos serão apagados de acordo com o valor que você especificar em "Dias". Por exemplo, se você informar "30", todo tópico que não contiver mensagens com menos de 30 dias será apagado.',
+'Prune sticky enable'			=>	'Habilitar a exclusão de tópicos fixados.',
+'Prune from'					=>	'Exclusão do fórum',
+'Days to prune message'			=>	'Os dias devem ser um valor inteiro positivo.',
+'No days old message'			=>	'Não há tópicos tão antigos quanto você especificou. Por favor, diminua o valor em "Dias" e tente novamente.',
+'Prune done'					=>	'Posts eliminados.',
 
 );

@@ -1,27 +1,27 @@
 <?php
 
-// Language definitions used in all admin files
+// Definições de linguagem utilizada em todos os arquivos da administração
 $lang_admin_ranks = array(
 
-'Rank head'						=>	'Add, edit or remove ranks',
-'Rank'							=>	'Rank',
-'Rank added'					=>	'Rank added.',
-'Title message'					=>	'You must enter a rank title.',
-'Min posts message'				=>	'Minimum posts must be a positive integer value.',
-'Min posts occupied message'	=>	'There is already a rank with a minimum posts value of %s.',
-'Rank updated'					=>	'Rank updated.',
-'Rank removed'					=>	'Rank removed.',
-'Add rank intro'				=>	'Enter a rank and the minimum number of posts that a user has to have to acquire the rank. Different ranks cannot have the same value for minimum posts. If a title is set for a user, the title will be displayed instead of any rank. For this to have any effect "<strong>User ranks</strong>" must be enabled in %s.',
-'Add rank'						=>	'Add rank',
-'Add rank legend'				=>	'New rank details',
-'Rank title label'				=>	'Rank title',
-'Min posts label'				=>	'Minimum posts',
-'Existing ranks legend'			=>	'Edit or remove existing user ranks',
-'No ranks'						=>	'No ranks in list.',
-'Update'						=>	'Update',
-'Remove'						=>	'Remove',
-'New rank'						=>	'Add new rank',
-'Existing rank'					=>	'Existing rank',
+'Rank head'						=>	'Adicionar, editar ou remover categorias',
+'Rank'							=>	'Categoria',
+'Rank added'					=>	'Categoria adicionada.',
+'Title message'					=>	'É necessário inserir um título de categoria.',
+'Min posts message'				=>	'Mensagens mínimas devem ser um valor inteiro positivo.',
+'Min posts occupied message'	=>	'Já existe uma categoria com um valor mínimo de mensagens %s.',
+'Rank updated'					=>	'Categoria atualizada.',
+'Rank removed'					=>	'Categoria removida.',
+'Add rank intro'				=>	'Insira uma Categoria e o número mínimo de publicações que um usuário tem que ter para adquirir o rank. Diferentes categorias não podem ter o mesmo valor para os posts mínimos. Se um título é definido para um usuário, o título será exibido em vez de qualquer categoria. Para que isso tenha qualquer efeito "<strong>usuário classifica</strong>" deve estar habilitado %s.',
+'Add rank'						=>	'Adicionar categoria',
+'Add rank legend'				=>	'Novos detalhes de classificação',
+'Rank title label'				=>	'Título da Categoria',
+'Min posts label'				=>	'Publicações minimas',
+'Existing ranks legend'			=>	'Editar ou remover categorias de usuários existentes',
+'No ranks'						=>	'Sem categorias na lista.',
+'Update'						=>	'Atualizar',
+'Remove'						=>	'Remover',
+'New rank'						=>	'Adicionar nova categoria',
+'Existing rank'					=>	'Categoria existente',
 
 );
 

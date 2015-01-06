@@ -1,29 +1,29 @@
 <?php
 
-// Language definitions used in the index page of the admin panel
+// Definições da linguagem utilizada na página do índice do painel de administração
 $lang_admin_index = array(
 
-'Information head'				=>	'Welcome to PunBB administration control panel',
-'Alerts'						=>	'Administrator Alerts',
-'Check for updates enabled'		=>	'This board is setup to automatically check for updates and hotfixes against the punbb.informer.com updates service.',
-'Check for updates manual'		=>	'Check for updates',	// Link text
-'Copyright message'				=>	'&copy; 2008-2012 <a href="http://punbb.informer.com/">PunBB</a>',
-'PunBB version'					=>	'PunBB version',
-'PunBB community'				=>	'Community',
-'Forums'						=>	'Forums',
+'Information head'				=>	'Bem-vindo ao painel de controle de administração PunBB',
+'Alerts'						=>	'Alertas de administrador',
+'Check for updates enabled'		=>	'Esta placa está configurada para verificar automaticamente atualizações e hotfixes contra o serviço de atualizações punbb.informer.com.',
+'Check for updates manual'		=>	'Verificar se há atualizações',	// O texto do link
+'Copyright message'				=>	'&cópia; 2008-2012 <a href="http://punbb.informer.com/">PunBB</a>',
+'PunBB version'					=>	'versão PunBB',
+'PunBB community'				=>	'Comunidade',
+'Forums'						=>	'Fóruns',
 'Twitter'						=>	'Twitter',
-'Development'					=>	'Development',
-'Not available'					=>	'Not available',
+'Development'					=>	'Desenvolvimento',
+'Not available'					=>	'Não está disponível',
 'Not applicable'				=>	'N/A',
-'Server load'					=>	'Server load',
-'users online'					=>	'users online',
-'Environment'					=>	'Environment',
-'Operating system'				=>	'Operating system',
-'Show info'						=>	'Show info',
-'Accelerator'					=>	'Accelerator',
-'Database'						=>	'Database',
-'Rows'							=>	'Rows',
-'Size'							=>	'Size',
-'phpinfo disabled'				=>	'The PHP function phpinfo() has been disabled on this server.',
+'Server load'					=>	'A carregar servidor',
+'users online'					=>	'Usuários on-line',
+'Environment'					=>	'Ambiente',
+'Operating system'				=>	'Sistema operativo',
+'Show info'						=>	'Mostrar informações',
+'Accelerator'					=>	'Acelerador',
+'Database'						=>	'Banco de dados',
+'Rows'							=>	'Filas',
+'Size'							=>	'Tamanho',
+'phpinfo disabled'				=>	'A função phpinfo () do PHP foi desativada no servidor.',
 
 );
