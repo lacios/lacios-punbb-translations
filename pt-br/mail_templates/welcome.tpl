@@ -1,12 +1,12 @@
-Subject: Welcome to <board_title>!
+Assunto: Bem-vindo(a) ao <board_title>!
 
-Obrigado por se registrar em nosso fórum <base_url>. Seu username no fórum é <username>, com você solicitou.
+Obrigado por registrar-se em nosso fórum <base_url>. Seu nome de usuário no fórum é <username>, como você solicitou.
 
-Para completar sue registro, você precisa alterar a senha para sua conta. Isto deve ser feito em 72 horas, caso contráro sua conta será deletada.
+Para completar seu registro, você precisa definir a senha para sua conta. Isso deve ser feito em 72 horas, ou sua conta será deletada.
 
-Para alterr sua senha e concluir o registro, por favor, visite a seguinte página:
+Para alterar sua senha e concluir o registro, por favor, visite a seguinte página:
 <activation_url>
 
 --
 <board_mailer>
-(Esta mensagem não deve ser respondida)
+(Não responda esta mensagem)
