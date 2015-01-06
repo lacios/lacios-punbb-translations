@@ -1,10 +1,10 @@
 <?php
 
-// Language definitions used in index.php
+// Definições da linguagem utilizada em index.php
 $lang_index = array(
 
 'Moderated by'				=>	'Moderado por %s',
-'Link to'					=>	'Link para %s',	// As in "Link to http://punbb.informer.com/"
+'Link to'					=>	'Link para %s',	// Como em "Link to http://punbb.informer.com/"
 'Category subtitle'			=>	'%1$s nesta categoria com detalhes de %2$s',
 'Forums'					=>	'Fóruns',
 'Topics'					=>	'Tópicos',
@@ -36,7 +36,7 @@ $lang_index = array(
 'Online stats separator'	=>	', ',
 'Online list separator'		=>	', ',
 'Statistics'				=>	'Estatísticas do fórum',
-'External forum'			=>	'(Esta fórum está localizado em um site externo)',
+'External forum'			=>	'(Este fórum está localizado em um site externo)',
 'Forum has new'				=>	'( %s )',
 'Forum new posts'			=>	'Novos posts',
 'New posts title'			=>	'Este fórum tem novos posts desde a sua última visita.',
