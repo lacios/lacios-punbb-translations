@@ -1,6 +1,6 @@
 <?php
 
-// Language definitions used in viewforum.php
+// Definições da linguagem utilizada em viewforum.php
 $lang_forum = array(
 
 'Forum subtitle'			=>	'%1$s neste fórum com detalhes de %2$s.',

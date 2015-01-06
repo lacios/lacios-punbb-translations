@@ -1,6 +1,6 @@
 <?php
 
-// O conteúdo deste arquivo são inspirados pelo arquivo i18n-ascii.txt
+// O conteúdo deste arquivo é inspirado pelo arquivo i18n-ascii.txt
 // A partir do TextPattern software CMS (http://textpattern.com/).
 
 // Substituições feitas por função sef_friendly
