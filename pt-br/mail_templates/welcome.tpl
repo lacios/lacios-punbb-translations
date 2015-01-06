@@ -1,12 +1,12 @@
 Subject: Welcome to <board_title>!
 
-Thank you for registering in the forums at <base_url>. Your username on the forums is <username>, as you requested.
+Obrigado por se registrar em nosso fórum <base_url>. Seu username no fórum é <username>, com você solicitou.
 
-To complete your registration, you need to set a password for your account. It must be done in 72 hours, or else your account will be deleted.
+Para completar sue registro, você precisa alterar a senha para sua conta. Isto deve ser feito em 72 horas, caso contráro sua conta será deletada.
 
-To set your password, please visit the following page:
+Para alterr sua senha e concluir o registro, por favor, visite a seguinte página:
 <activation_url>
 
 --
 <board_mailer>
-(Do not reply to this message)
+(Esta mensagem não deve ser respondida)
